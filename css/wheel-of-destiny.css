@@ -1,4 +1,4 @@
-.titulo {
+.wod-titulo {
   background-color: black;
   height: 26px;
   color: beige;
@@ -8,7 +8,7 @@
   padding-top: 5px;
 }
 
-.boxcheck {
+.wod-boxcheck {
   text-align: center;
   justify-content: center;
   margin-left: 5px;
@@ -16,29 +16,29 @@
   padding: 10px;
 }
 
-.boxcheckpai {
+.wod-boxcheckpai {
   background-color: rgba(107, 107, 107, 0.166);
   height: auto;
   margin-bottom: 10px;
 }
 
-.containerform {
+.wod-containerform {
   display: flex;
 }
 
-.containerduo {
+.wod-containerduo {
   height: 50%;
   display: inline-block;
 }
 
-.container {
+.wod-container {
   position: relative;
   text-align: center;
   color: white;
 }
 
 /* Centered text */
-.messageOnTop {
+.wod-messageOnTop {
   position: absolute;
   top: 0%;
   left: 50%;
@@ -49,7 +49,7 @@
 }
 
 /* Centered text */
-.messageOnBottom {
+.wod-messageOnBottom {
   position: absolute;
   top: 100%;
   left: 50%;
